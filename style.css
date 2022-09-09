@@ -1,0 +1,13 @@
+h1{
+    color: rgb(27, 22, 4);
+    box-sizing: border-box;
+    background-color: rgb(247, 186, 221);
+}
+body{
+    font-style: normal;
+    font-size: larger;
+    background-color: rgb(192, 235, 236);
+    background-image: url(Images/light.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
